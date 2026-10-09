@@ -1,0 +1,527 @@
+[
+  {
+    "id": "del-connaught-place",
+    "city": "Delhi",
+    "name": "Connaught Place (CP) & Central District",
+    "safety_score": 92,
+    "cleanliness_score": 88,
+    "affordability_score": 45,
+    "rating_score": 4.8,
+    "transit_score": 98,
+    "nightlife_score": 94,
+    "overall_index": 86.4,
+    "pros": [
+      "Extensive CCTV surveillance & pedestrian-only colonnades",
+      "Direct interchange for Blue & Yellow metro lines (Rajiv Chowk)",
+      "High concentration of heritage cafes, bookshops, and rooftop dining"
+    ],
+    "cons": [
+      "High dining and parking costs",
+      "Massive rush hour crowds around metro entrances",
+      "Street touts targeting foreign tourists near outer circle"
+    ],
+    "best_for": "Heritage strolls, safe late-night dining, seamless metro connectivity",
+    "worst_for": "Budget street shopping, quiet seclusion",
+    "summary": "The premier colonial-era rotunda and commercial epicenter with top safety, unmatched transit, but premium pricing."
+  },
+  {
+    "id": "del-old-delhi",
+    "city": "Delhi",
+    "name": "Old Delhi (Chandni Chowk & Chawri Bazaar)",
+    "safety_score": 62,
+    "cleanliness_score": 52,
+    "affordability_score": 96,
+    "rating_score": 4.6,
+    "transit_score": 85,
+    "nightlife_score": 75,
+    "overall_index": 71.2,
+    "pros": [
+      "Incomparable 350-year-old culinary traditions and spice bazaars",
+      "Unmatched affordability for textiles, jewelry, and street feasts",
+      "Living Mughal heritage and vibrant cultural celebrations"
+    ],
+    "cons": [
+      "Severe labyrinthine pedestrian bottlenecks and e-rickshaw gridlock",
+      "Poor sanitation in inner alleys and overflowing trash bins",
+      "Higher pickpocketing risk in crowded market stretches"
+    ],
+    "best_for": "Culinary adventurers, street photographers, budget heritage shopping",
+    "worst_for": "Claustrophobic travelers, stroller accessibility, fast vehicular transit",
+    "summary": "An intoxicating assault on the senses offering the world's finest street food and history, balanced against dense urban chaos."
+  },
+  {
+    "id": "del-hauz-khas",
+    "city": "Delhi",
+    "name": "Hauz Khas Village & Green Park",
+    "safety_score": 84,
+    "cleanliness_score": 82,
+    "affordability_score": 68,
+    "rating_score": 4.7,
+    "transit_score": 78,
+    "nightlife_score": 91,
+    "overall_index": 81.8,
+    "pros": [
+      "Stunning 14th-century lake fort view paired with bohemian cafes",
+      "Deer park green corridor for morning wellness and dog walking",
+      "Vibrant indie art and craft boutiques"
+    ],
+    "cons": [
+      "Single entry-exit bottleneck causing vehicular jams on weekends",
+      "Noisy club dispersal after midnight",
+      "Uneven stone walkways in the village"
+    ],
+    "best_for": "Youth nightlife, sunset photography, indie dining",
+    "worst_for": "Quick vehicular drive-through, elderly wheelchair mobility",
+    "summary": "Bohemian urban pocket marrying historic ruins with high-octane indie nightlife and tranquil lake nature."
+  },
+  {
+    "id": "del-gk-south-ex",
+    "city": "Delhi",
+    "name": "Greater Kailash & South Extension",
+    "safety_score": 91,
+    "cleanliness_score": 86,
+    "affordability_score": 48,
+    "rating_score": 4.8,
+    "transit_score": 88,
+    "nightlife_score": 89,
+    "overall_index": 84.6,
+    "pros": [
+      "Posh residential colonies with active gated resident security",
+      "M-Block market luxury bakeries, designer boutiques, and salon strips",
+      "Magenta Line metro connectivity right at the doorstep"
+    ],
+    "cons": [
+      "High weekend valet parking congestion",
+      "Expensive cafe menus and retail price tags",
+      "Heavy rush hour traffic on Ring Road intersections"
+    ],
+    "best_for": "Upscale shopping, safe solo dining, cosmopolitan lifestyle",
+    "worst_for": "Backpacker street prices, old historical architecture",
+    "summary": "South Delhi's stylish lifestyle hub featuring superb community safety and designer dining."
+  },
+  {
+    "id": "del-dwarka",
+    "city": "Delhi",
+    "name": "Dwarka Subcity (Planned Modern Sector)",
+    "safety_score": 82,
+    "cleanliness_score": 79,
+    "affordability_score": 76,
+    "rating_score": 4.5,
+    "transit_score": 92,
+    "nightlife_score": 60,
+    "overall_index": 78.4,
+    "pros": [
+      "Wide grid-planned roads with separate service lanes",
+      "8 dedicated metro stations + direct Airport Express link",
+      "Abundant green neighborhood parks in every residential sector"
+    ],
+    "cons": [
+      "Subdued late-night entertainment and pub culture",
+      "Deserted interior sector roads after 10:30 PM",
+      "Water supply hardness issues in some older societies"
+    ],
+    "best_for": "Airport proximity, family-friendly quiet living, clean wide roads",
+    "worst_for": "Historic sightseeing, late-night pub crawls",
+    "summary": "Asia's largest planned residential subcity prioritizing wide roadways, airport access, and metro lines."
+  },
+  {
+    "id": "mum-south-bombay",
+    "city": "Mumbai",
+    "name": "South Mumbai (Colaba & Fort Heritage District)",
+    "safety_score": 94,
+    "cleanliness_score": 89,
+    "affordability_score": 40,
+    "rating_score": 4.9,
+    "transit_score": 88,
+    "nightlife_score": 90,
+    "overall_index": 85.6,
+    "pros": [
+      "Victorian Gothic & Art Deco UNESCO architecture",
+      "Safe coastal promenades along Marine Drive with 24/7 security",
+      "Sophisticated cafes, art galleries, and historic bars"
+    ],
+    "cons": [
+      "Exorbitant real estate and hotel accommodation rates",
+      "High humidity and coastal monsoon salt weathering",
+      "Scarce street parking"
+    ],
+    "best_for": "Architectural walking tours, solo safety, seaside sunset relaxation",
+    "worst_for": "Backpacker budget accommodation, driving personal cars",
+    "summary": "Mumbai's crown jewel of safety, grand history, and world-class seaside ambiance."
+  },
+  {
+    "id": "mum-bandra-west",
+    "city": "Mumbai",
+    "name": "Bandra West (Queen of the Suburbs)",
+    "safety_score": 90,
+    "cleanliness_score": 84,
+    "affordability_score": 50,
+    "rating_score": 4.8,
+    "transit_score": 82,
+    "nightlife_score": 96,
+    "overall_index": 83.4,
+    "pros": [
+      "Hipster coffee culture, celebrity hotspots, and eclectic eateries",
+      "Bandra Bandstand and Carter Road seaside joggers paradise",
+      "Portuguese heritage villages (Ranwar) with vivid street murals"
+    ],
+    "cons": [
+      "Narrow heritage lanes choked during weekend evenings",
+      "Pricey boutique dining",
+      "Auto-rickshaw refusal during torrential rain"
+    ],
+    "best_for": "Creative professionals, craft cafe crawling, coastal sunsets",
+    "worst_for": "Strict budget travelers, swift cross-town highway access",
+    "summary": "The trend capital of Mumbai with unbeatable social pulse, artistic charm, and seaside allure."
+  },
+  {
+    "id": "mum-juhu-versova",
+    "city": "Mumbai",
+    "name": "Juhu & Versova (Beachside & Film Artists Enclave)",
+    "safety_score": 87,
+    "cleanliness_score": 78,
+    "affordability_score": 58,
+    "rating_score": 4.7,
+    "transit_score": 80,
+    "nightlife_score": 92,
+    "overall_index": 81.6,
+    "pros": [
+      "Sprawling sandy shoreline with famous street food stalls",
+      "Bohemian theater circles (Prithvi Theatre) & indie artist cafes",
+      "Vibrant sunset culture and beach volleyball"
+    ],
+    "cons": [
+      "Monsoon beach litter washed ashore by high tides",
+      "Slow traffic bottlenecks on Juhu Tara Road",
+      "Substantial noise around main public beach entrances"
+    ],
+    "best_for": "Theater lovers, beachside morning jogs, film community social life",
+    "worst_for": "Quiet library silence, rapid railway commuting",
+    "summary": "Mumbai's coastal artistic haven combining legendary theater, beach sands, and celebrity dining."
+  },
+  {
+    "id": "mum-dadar-shivaji-park",
+    "city": "Mumbai",
+    "name": "Dadar & Shivaji Park (Cultural & Transit Crossroads)",
+    "safety_score": 89,
+    "cleanliness_score": 79,
+    "affordability_score": 75,
+    "rating_score": 4.7,
+    "transit_score": 98,
+    "nightlife_score": 68,
+    "overall_index": 82.2,
+    "pros": [
+      "The undisputed geographical and rail nexus connecting Central & Western lines",
+      "Iconic 28-acre Shivaji Park sports cradle and lush walking perimeter",
+      "Authentic Maharashtrian tiffin snacks and legendary Vada Pav stalls"
+    ],
+    "cons": [
+      "Extreme pedestrian and commuter crowds during morning rush hours",
+      "Intense flower market vehicular gridlock near railway bridges",
+      "Limited late-night cocktail lounges"
+    ],
+    "best_for": "Traditional cultural immersion, cricket matches, rapid rail mobility",
+    "worst_for": "Quiet isolation, luxury nightclubbing",
+    "summary": "The beating heart of authentic Mumbai culture, public parks, and unmatched railway connectivity."
+  },
+  {
+    "id": "mum-powai-hiranandani",
+    "city": "Mumbai",
+    "name": "Powai & Hiranandani Gardens",
+    "safety_score": 92,
+    "cleanliness_score": 90,
+    "affordability_score": 52,
+    "rating_score": 4.8,
+    "transit_score": 72,
+    "nightlife_score": 85,
+    "overall_index": 82.8,
+    "pros": [
+      "Neoclassical architecture with manicured tree-lined boulevards",
+      "Picturesque Powai Lake and tranquil green hills",
+      "High tech ecosystem (IIT Bombay & top tech startups)"
+    ],
+    "cons": [
+      "JVLR highway bottleneck during morning and evening rush",
+      "Distance from historic South Mumbai tourist centers",
+      "Crocodile warning zones along natural lake fringes"
+    ],
+    "best_for": "Tech founders, European-style walking promenades, pet-friendly living",
+    "worst_for": "Historic colonial monument walking, rapid local train access",
+    "summary": "Mumbai's sleek tech valley township featuring European aesthetic boulevards and high community safety."
+  },
+  {
+    "id": "blr-indiranagar",
+    "city": "Bengaluru",
+    "name": "Indiranagar (100ft & 12th Main Corridor)",
+    "safety_score": 88,
+    "cleanliness_score": 81,
+    "affordability_score": 55,
+    "rating_score": 4.7,
+    "transit_score": 85,
+    "nightlife_score": 98,
+    "overall_index": 82.8,
+    "pros": [
+      "Epicenter of Indian craft microbreweries and specialty coffee",
+      "Namma Metro Purple Line station right on CMH Road",
+      "Tree-lined residential bylanes with high community safety"
+    ],
+    "cons": [
+      "Severe bumper-to-bumper traffic jams at 100 Feet Road junctions",
+      "High weekend decibel levels near commercial pub strips",
+      "Rapidly rising rental and culinary prices"
+    ],
+    "best_for": "Craft beer aficionados, tech founders, lively weekend socials",
+    "worst_for": "Rush hour vehicular commuting, total acoustic silence",
+    "summary": "Bangalore's ultimate lifestyle corridor featuring unparalleled culinary innovation and metro access."
+  },
+  {
+    "id": "blr-malleshwaram",
+    "city": "Bengaluru",
+    "name": "Malleshwaram & Central Heritage Hub",
+    "safety_score": 93,
+    "cleanliness_score": 85,
+    "affordability_score": 80,
+    "rating_score": 4.8,
+    "transit_score": 89,
+    "nightlife_score": 52,
+    "overall_index": 82.2,
+    "pros": [
+      "Old-world Bengaluru charm with authentic filter coffee & CTR benne dose",
+      "Exceptional family and senior safety with close-knit community",
+      "Sampige Road cultural markets and historic temples (Kadu Malleshwara)"
+    ],
+    "cons": [
+      "Subdued nightlife; most cafes close by 10:30 PM",
+      "Narrow traditional crossroads with limited four-wheeler parking",
+      "Potholes on older secondary interior roads"
+    ],
+    "best_for": "Traditional South Indian culture, serene living, morning walks",
+    "worst_for": "Late-night clubbing, cocktail lounges",
+    "summary": "The timeless soul of traditional Bengaluru offering supreme community security, authentic heritage food, and peace."
+  },
+  {
+    "id": "blr-koramangala",
+    "city": "Bengaluru",
+    "name": "Koramangala (Startup Hub & Global Dining)",
+    "safety_score": 86,
+    "cleanliness_score": 80,
+    "affordability_score": 62,
+    "rating_score": 4.8,
+    "transit_score": 81,
+    "nightlife_score": 95,
+    "overall_index": 82.4,
+    "pros": [
+      "India's highest concentration of early-stage startups and angel networks",
+      "Massive diversity of world cuisines: Korean, Italian, Pan-Asian, and coastal",
+      "Vibrant student energy and creative co-working spaces"
+    ],
+    "cons": [
+      "Heavy Sony World junction and 80 Feet Road peak hour traffic",
+      "Occasional monsoon waterlogging in low-lying 4th block lanes",
+      "Higher rental rates for apartments"
+    ],
+    "best_for": "Tech networking, world dining, youthful cosmopolitan buzz",
+    "worst_for": "Quick vehicular highway exits, peaceful sleepy retirement",
+    "summary": "Bengaluru's celebrated startup melting pot teeming with world-class eateries and venture energy."
+  },
+  {
+    "id": "blr-jayanagar",
+    "city": "Bengaluru",
+    "name": "Jayanagar (Green Heritage Residential Sanctuary)",
+    "safety_score": 94,
+    "cleanliness_score": 88,
+    "affordability_score": 72,
+    "rating_score": 4.9,
+    "transit_score": 90,
+    "nightlife_score": 64,
+    "overall_index": 85.0,
+    "pros": [
+      "Historic tree-canopied layout with sprawling parks in every block",
+      "Namma Metro Green Line stations across the neighborhood",
+      "Exceptional safety record, family-friendly culture, and low crime"
+    ],
+    "cons": [
+      "Quiet evening culture; nightlife shuts down comparatively early",
+      "High real estate purchase prices",
+      "Occasional weekend street parking crunch near 4th Block complex"
+    ],
+    "best_for": "Elderly and family safety, morning joggers, authentic South Indian breakfast",
+    "worst_for": "Rooftop pub hopping, raucous late-night parties",
+    "summary": "One of Asia's best planned green residential layouts with superb safety and green canopy streets."
+  },
+  {
+    "id": "nyc-greenwich-village",
+    "city": "New York",
+    "name": "Greenwich Village & SoHo (Bohemian Arts & Cast Iron)",
+    "safety_score": 93,
+    "cleanliness_score": 85,
+    "affordability_score": 38,
+    "rating_score": 4.9,
+    "transit_score": 97,
+    "nightlife_score": 98,
+    "overall_index": 86.8,
+    "pros": [
+      "Historic brownstones, legendary underground jazz clubs, and indie theaters",
+      "World-class walkability with tree-lined cobblestone streets",
+      "Exceptional culinary density from dollar slices to Michelin stars"
+    ],
+    "cons": [
+      "Astronomical rental and dining costs",
+      "Weekend nightlife crowds spilling onto sidewalk corners",
+      "Old walkup buildings with limited elevator accessibility"
+    ],
+    "best_for": "Walking tours, historic jazz, cafe hopping, artsy creative vibe",
+    "worst_for": "Budget accommodations, driving or parking cars",
+    "summary": "The bohemian soul of Manhattan with timeless brownstone streets, world-class jazz, and premier safety."
+  },
+  {
+    "id": "nyc-midtown",
+    "city": "New York",
+    "name": "Midtown Manhattan (Broadway, Times Sq & Central Hub)",
+    "safety_score": 85,
+    "cleanliness_score": 76,
+    "affordability_score": 44,
+    "rating_score": 4.6,
+    "transit_score": 99,
+    "nightlife_score": 95,
+    "overall_index": 81.2,
+    "pros": [
+      "Direct transit interchange connecting almost every NYC subway line",
+      "Broadway theaters, iconic skyscrapers, and 24/7 glowing energy",
+      "High police presence and fully illuminated pedestrian plazas"
+    ],
+    "cons": [
+      "Intense sensory overload and tourist crowd congestion",
+      "Aggressive street solicitors and high tourist-trap markups",
+      "Honking traffic and urban sirens day and night"
+    ],
+    "best_for": "First-time visitors, Broadway theatergoers, rapid multi-line transit",
+    "worst_for": "Quiet peaceful sleep, authentic local neighborhood charm",
+    "summary": "The high-voltage crossroads of the world featuring unmatched transit, 24/7 illumination, and Broadway theater."
+  },
+  {
+    "id": "nyc-williamsburg",
+    "city": "New York",
+    "name": "Williamsburg & Greenpoint (Brooklyn Riverfront)",
+    "safety_score": 90,
+    "cleanliness_score": 83,
+    "affordability_score": 52,
+    "rating_score": 4.8,
+    "transit_score": 86,
+    "nightlife_score": 97,
+    "overall_index": 83.8,
+    "pros": [
+      "Panoramic Manhattan skyline views across Domino Park waterfront",
+      "Thriving indie music venues, rooftop bars, and vintage boutiques",
+      "NYC Ferry access directly to Manhattan and Wall Street"
+    ],
+    "cons": [
+      "L train subway platform overcrowding during rush hour",
+      "Rapid gentrification pushing up dining and shopping prices",
+      "Windy riverfront chill during winter months"
+    ],
+    "best_for": "Skyline photography, indie music gigs, weekend flea markets",
+    "worst_for": "Strict budget travel, suburban car commuting",
+    "summary": "Brooklyn's creative powerhouse with panoramic East River views, indie rooftops, and artisanal dining."
+  },
+  {
+    "id": "pune-koregaon-park",
+    "city": "Pune",
+    "name": "Koregaon Park (KP & North Main Road)",
+    "safety_score": 93,
+    "cleanliness_score": 91,
+    "affordability_score": 46,
+    "rating_score": 4.9,
+    "transit_score": 84,
+    "nightlife_score": 97,
+    "overall_index": 85.8,
+    "pros": [
+      "Lush century-old banyan canopies and tranquil Zen gardens (Osho Teerth)",
+      "High concentration of gourmet European bakeries, indie craft pubs, and art spaces",
+      "Premier expat and creative community with round-the-clock safety"
+    ],
+    "cons": [
+      "High property rent and premium dining costs",
+      "Narrow lane congestion near popular weekend pub clusters",
+      "Mundhwa bridge bottleneck during tech peak commute hours"
+    ],
+    "best_for": "Gourmet dining, nightlife, pet-friendly tree walks, creative expats",
+    "worst_for": "Strict budget backpackers, wide vehicular highways",
+    "summary": "Pune's most prestigious cultural enclave featuring lush tree-canopied lanes, artisanal dining, and supreme safety."
+  },
+  {
+    "id": "pune-fc-road-deccan",
+    "city": "Pune",
+    "name": "FC Road & Deccan Gymkhana (Student Hub)",
+    "safety_score": 91,
+    "cleanliness_score": 83,
+    "affordability_score": 85,
+    "rating_score": 4.8,
+    "transit_score": 94,
+    "nightlife_score": 86,
+    "overall_index": 87.2,
+    "pros": [
+      "Pulsating intellectual youth culture anchored by historic Fergusson College",
+      "Legendary budget street food (Cafe Goodluck, Vaishali, Wadeshwar)",
+      "Direct Pune Metro Aqua Line stations right on JM Road & Deccan"
+    ],
+    "cons": [
+      "Extremely crowded pedestrian sidewalks on weekend evenings",
+      "Challenging four-wheeler parking availability",
+      "Bicycle and two-wheeler traffic density during college rush hours"
+    ],
+    "best_for": "Students, budget street feasts, book lovers, metro transit access",
+    "worst_for": "Quiet library seclusion, large four-wheeler SUV driving",
+    "summary": "The vibrant heartbeat of Pune's student youth featuring historic tiffins, street shopping, and metro lines."
+  },
+  {
+    "id": "pune-kothrud",
+    "city": "Pune",
+    "name": "Kothrud & Vanaz (Cultural Heartland)",
+    "safety_score": 95,
+    "cleanliness_score": 87,
+    "affordability_score": 75,
+    "rating_score": 4.8,
+    "transit_score": 92,
+    "nightlife_score": 62,
+    "overall_index": 84.4,
+    "pros": [
+      "Ranked among Asia's fastest-growing residential localities with exemplary family safety",
+      "Direct Pune Metro Line 2 terminus at Vanaz connecting to Deccan and Civil Court",
+      "Rich cultural traditions, Marathi theater auditoriums (Yashwantrao Chavan Natyagruha)"
+    ],
+    "cons": [
+      "Subdued late-night clubbing scene",
+      "Paud Road peak hour vehicle bottlenecks near Chandani Chowk",
+      "Rising property prices in newer gated enclaves"
+    ],
+    "best_for": "Family and senior safety, cultural theater, peaceful green living",
+    "worst_for": "All-night electronic dance clubs, luxury seaside resorts",
+    "summary": "Pune's cultural sanctum offering unmatched family safety, Marathi theater legacy, and direct metro connectivity."
+  },
+  {
+    "id": "pune-hinjewadi",
+    "city": "Pune",
+    "name": "Hinjewadi & Wakad (IT Silicon Valley & Modern Belts)",
+    "safety_score": 85,
+    "cleanliness_score": 82,
+    "affordability_score": 68,
+    "rating_score": 4.6,
+    "transit_score": 79,
+    "nightlife_score": 88,
+    "overall_index": 80.6,
+    "pros": [
+      "Rajiv Gandhi Infotech Park hosting 400,000+ tech professionals and MNCs",
+      "Modern gated high-rise townships with Olympic-grade amenities",
+      "Vibrant young professional networking and weekend microbrewery scene"
+    ],
+    "cons": [
+      "Significant morning and evening highway choke points at Shivaji Chowk",
+      "Distance from historic central Pune heritage and cultural peths",
+      "Under-construction metro line causing dust along main flyover stretch"
+    ],
+    "best_for": "Software engineers, tech founders, modern high-rise living",
+    "worst_for": "Historical heritage walking, swift access to Old Pune bazaars",
+    "summary": "Pune's tech engine driving India's software workforce with modern luxury towers and bustling social spots."
+  }
+]
